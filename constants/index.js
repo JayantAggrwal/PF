@@ -60,11 +60,7 @@ export const socials = [
     url: "/linkedin.svg",
     link: "https://www.linkedin.com/in/jayant-aggarwal2024/",
   },
-  {
-    name: "instagram",
-    url: "/instagram.svg",
-    link: "https://www.instagram.com/jayant_aggarwwal/",
-  },
+
   {
     name: "github",
     url: "/github2.png",
