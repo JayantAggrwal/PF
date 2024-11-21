@@ -23,9 +23,7 @@ const Contact = () => {
             Get in touch
           </h4>
           <div className="grid border border-gray-500 p-10 justify-center gap-4 rounded-2xl shadow-lg shadow-gray-700 m-auto w-full md:w-1/2">
-            <p className="font-normal text-[16px] text-white text-center">
-            9602087036 (Whatsapp)
-            </p>
+           
             <a
               type="button"
               className="flex hover:scale-105 transition duration-200 hover:font-bold items-center h-fit py-4 px-6 bg-[#25618B] rounded-[32px] gap-[12px]"
