@@ -24,36 +24,20 @@ const About = () => (
         className="mt-[8px] font-normal sm:text-[20px] text-[16px] text-center text-secondary-white"
       >
         Hello, I am{" "}
-        <span className="font-extrabold text-white">Jayant Aggarwal,</span> a
-        highly skilled professional with a strong academic background and a
-        passion for software development. My coursework in B.Tech
-        <span className="font-extrabold text-white"> Computer Science </span>
-        at{" "}
-        <span className="font-extrabold text-white">
-          {" "}
-          Chandigarh University
-        </span>{" "}
-        has exposed me to a wide range of subjects, including DSA, DAA, OOPS,
-        NoSQL, DBMS, and Data Science. This comprehensive education has provided
-        me with a solid foundation in computer science principles and practical
-        knowledge.
+        <span className="font-extrabold text-white">Jayant Aggarwal,</span> a dedicated Cloud and Data Engineer with a passion for solving complex challenges and driving innovation.
+        Currently, I work at Quantiphi, where I specialize in cloud migrations, infrastructure automation, and cloud foundation setups.
+        My expertise includes AWS-to-GCP transitions, on-premises-to-GCP migrations, and designing scalable, secure infrastructure on Google Cloud Platform (GCP).
         <br />
         <br />
-        In addition to my academic pursuits, I have honed my skills in various
-        programming languages and frameworks, including C++, Java, Python,
-        React, Next.js, Node.js, and Express.js. I have hands-on experience in
-        developing{" "}
-        <span className="font-extrabold text-white">
-          Full Stack web applications{" "}
-        </span>{" "}
-        and working with databases like MongoDB and MySQL. My commitment to
-        continuous learning and strong problem-solving skills enables me to stay
-        updated with the latest technologies and industry trends.
+        My proficiency in tools like Terraform, Kubernetes, and Helm, combined with hands-on experience in CI/CD pipelines using Jenkins, 
+        Cloud Build, GitLab CI, and GitHub Actions, enables me to streamline deployments and enhance operational efficiency.
+        I also bring skills in centralized logging, monitoring with Grafana, and establishing HA VPN tunnels for robust network connectivity.
         <br />
         <br />
-        Thriving in challenging environments, I approach projects with
-        dedication and enthusiasm. Eager to contribute to innovative software
-        development, I bring dedication, motivation, and exceptional results.
+        With a solid academic foundation in Computer Science (B.Tech from Chandigarh University) and expertise in programming languages and frameworks 
+        such as C++, Python, Java, React, and Node.js, I bridge the gap between software development and cloud engineering.
+        Driven by continuous learning and a commitment to excellence, I thrive in dynamic environments and am eager to contribute to cutting-edge projects.
+        To explore my journey and work, scroll down.
         To <span className="font-extrabold text-white">explore</span> my projects, scroll down.
       </motion.p>
 
