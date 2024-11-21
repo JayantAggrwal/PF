@@ -63,7 +63,7 @@ const Navbar = () => {
           className="bg-blue-500 p-2 hidden sm:flex rounded-lg hover:scale-110 transition duration-300 ease-in-out text-white"
           onClick={() => {
             window.open(
-              "https://drive.google.com/file/d/1ra5l6zcPm_2Y04BWQg61Ul6CVu5AfPQY/view?usp=drive_link",
+              "https://drive.google.com/file/d/1fr9Ex2tFprN7JWBBDFP-pz-PJ_wGYIrO/view?usp=sharing",
             );
           }}
         >
