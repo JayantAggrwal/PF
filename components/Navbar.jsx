@@ -121,7 +121,7 @@ const Navbar = () => {
                 onClick={() => {
                   setVisible(false);
                   window.open(
-                    "https://drive.google.com/file/d/1ra5l6zcPm_2Y04BWQg61Ul6CVu5AfPQY/view?usp=drive_link",
+                    "https://drive.google.com/file/d/1fr9Ex2tFprN7JWBBDFP-pz-PJ_wGYIrO/view?usp=drive_link",
                   );
                 }}
               >
